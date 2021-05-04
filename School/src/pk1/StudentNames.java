@@ -5,6 +5,7 @@ public class StudentNames {
 	public static void main(String[] args) {
 		System.out.println("student name is Dhoni");
 		System.out.println("sankdcjksdnvjcmakjvmskc");
+		System.out.println("1234567");
 		
 	}
 
